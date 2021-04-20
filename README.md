@@ -1,4 +1,4 @@
-# Python ile ATM Uygulamasi
+# Python ile ATM Uygulaması
 Burada, kullanıcının karşısına öncelikle müşteri olup olmadığı ile ilgili seçenekler gelir.
 
 1-Banka Müşterisiyim.
